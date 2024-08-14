@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tatumertanen
 - 👀 I’m interested in coding and problem solving
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Astro, React and Next.js
 - 💞️ I’m looking to collaborate on all kinds of projects
 - 📫 You can reach me on https://x.com/TatuMertanen
 
